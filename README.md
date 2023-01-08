@@ -2,7 +2,7 @@
 
 
 
-![Альт-текст](../sudokuGame/application/1626828169_14-kartinkin-com-p-yaponskii-flag-art-art-krasivo-14.jpg)
+![coolImage](../sudokuGame/application/1626828169_14-kartinkin-com-p-yaponskii-flag-art-art-krasivo-14.jpg)
 
 ## **Правила**
 
