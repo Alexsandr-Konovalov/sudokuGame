@@ -401,9 +401,9 @@ app.Timer.prototype = {
     }
 }
 app.parameters = {
-    area: 4,        //размер области
+    area: 3,        //размер области
     shuffle: 15,    //количество перемешиваний
-    hided: 2       //количество скрытых ячеек
+    hided: 45       //количество скрытых ячеек
 }
 
 var tbl = new app.Sudoku(app.parameters.area);
